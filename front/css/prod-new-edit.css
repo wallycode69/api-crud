@@ -1,0 +1,13 @@
+.frm{background-color: aliceblue; margin: 10px auto; max-width: 400px; padding: 20px;}
+
+.tit{padding-bottom: 15px;}
+
+.container h1{display: flex; justify-content: center;}
+
+.lbl{padding-right: 10px;}
+
+.mb-3{display: flex; justify-content: right; flex-wrap: wrap;}
+
+.btn-grabar{display: flex; justify-content: space-evenly; padding-top: 15px;}
+
+
